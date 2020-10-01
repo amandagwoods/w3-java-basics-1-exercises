@@ -21,5 +21,20 @@ public class basics {
 //        d
         System.out.println(5 + 15 / 3 * 2 - 8 % 3);
 
+// 5
+        int x = 25;
+        int y = 5;
+        System.out.println((x*y));
+
+// 6
+        int a = 125;
+        int b = 24;
+        System.out.println(a + b);
+        System.out.println(a - b);
+        System.out.println(a * b);
+        System.out.println(a / b );
+        System.out.println(a % b );
+
+
     }
 }
