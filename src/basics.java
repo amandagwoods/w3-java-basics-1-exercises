@@ -1,5 +1,7 @@
+import java.util.Scanner;
 public class basics {
     public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
 // 1
         System.out.println("Hello");
         System.out.println("Amanda Woods");
@@ -35,6 +37,13 @@ public class basics {
         System.out.println(a / b );
         System.out.println(a % b );
 
+// 7
+        System.out.println("input a number");
+        int num1 = sc.nextInt();
+
+        for(int i=0; i<10; i++){
+            System.out.println(num1 + " x " + (i+1) + " = " + (num1 * (i+1)));
+        }
 
     }
 }
