@@ -49,5 +49,10 @@ public class basics {
         System.out.println("   J   a a   v   v  a a   ");
         System.out.println("J  J  aaaaa   V V  aaaaa   ");
         System.out.println(" JJ  a     a   V  a     a");
+
+// 9
+        System.out.println(((25.5 * 3.5 - 3.5 * 3.5) / (40.5 - 4.5)));
+
     }
+
 }
