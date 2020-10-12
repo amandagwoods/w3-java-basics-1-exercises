@@ -44,6 +44,10 @@ public class basics {
         for(int i=0; i<10; i++){
             System.out.println(num1 + " x " + (i+1) + " = " + (num1 * (i+1)));
         }
-
+// 8
+        System.out.println("   J    a   v     v  a   ");
+        System.out.println("   J   a a   v   v  a a   ");
+        System.out.println("J  J  aaaaa   V V  aaaaa   ");
+        System.out.println(" JJ  a     a   V  a     a");
     }
 }
